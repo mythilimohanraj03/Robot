@@ -85,7 +85,7 @@
   }
   .android1:hover .torso {
     border-radius: 40%;
-    animation: movetorso 2s infinite;
+    animation: movebody 2s infinite;
   }
   .android1:hover .left_arm {
     animation: moveleftarm 2s infinite;
